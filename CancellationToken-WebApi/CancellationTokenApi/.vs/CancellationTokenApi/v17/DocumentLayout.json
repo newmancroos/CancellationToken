@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Developments\\Git\\CancellationToken\\CancellationToken-WebApi\\CancellationTokenApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1CFAA8-C028-4197-AD8A-3FAC0DA54512}|CancellationTokenApi\\CancellationTokenApi.csproj|c:\\developments\\git\\cancellationtoken\\cancellationtoken-webapi\\cancellationtokenapi\\cancellationtokenapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1CFAA8-C028-4197-AD8A-3FAC0DA54512}|CancellationTokenApi\\CancellationTokenApi.csproj|solutionrelative:cancellationtokenapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:120672179:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Developments\\Git\\CancellationToken\\CancellationToken-WebApi\\CancellationTokenApi\\CancellationTokenApi\\Program.cs",
+              "RelativeDocumentMoniker": "CancellationTokenApi\\Program.cs",
+              "ToolTip": "C:\\Developments\\Git\\CancellationToken\\CancellationToken-WebApi\\CancellationTokenApi\\CancellationTokenApi\\Program.cs",
+              "RelativeToolTip": "CancellationTokenApi\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswCYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:42:19.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

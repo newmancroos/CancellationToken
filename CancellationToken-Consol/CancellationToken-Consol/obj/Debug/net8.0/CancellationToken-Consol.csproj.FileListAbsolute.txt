@@ -1,0 +1,14 @@
+C:\Developments\Git\CancellationToken\CancellationToken-Consol\CancellationToken-Consol\bin\Debug\net8.0\CancellationToken-Consol.exe
+C:\Developments\Git\CancellationToken\CancellationToken-Consol\CancellationToken-Consol\bin\Debug\net8.0\CancellationToken-Consol.deps.json
+C:\Developments\Git\CancellationToken\CancellationToken-Consol\CancellationToken-Consol\bin\Debug\net8.0\CancellationToken-Consol.runtimeconfig.json
+C:\Developments\Git\CancellationToken\CancellationToken-Consol\CancellationToken-Consol\bin\Debug\net8.0\CancellationToken-Consol.dll
+C:\Developments\Git\CancellationToken\CancellationToken-Consol\CancellationToken-Consol\bin\Debug\net8.0\CancellationToken-Consol.pdb
+C:\Developments\Git\CancellationToken\CancellationToken-Consol\CancellationToken-Consol\obj\Debug\net8.0\CancellationToken-Consol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Developments\Git\CancellationToken\CancellationToken-Consol\CancellationToken-Consol\obj\Debug\net8.0\CancellationToken-Consol.AssemblyInfoInputs.cache
+C:\Developments\Git\CancellationToken\CancellationToken-Consol\CancellationToken-Consol\obj\Debug\net8.0\CancellationToken-Consol.AssemblyInfo.cs
+C:\Developments\Git\CancellationToken\CancellationToken-Consol\CancellationToken-Consol\obj\Debug\net8.0\CancellationToken-Consol.csproj.CoreCompileInputs.cache
+C:\Developments\Git\CancellationToken\CancellationToken-Consol\CancellationToken-Consol\obj\Debug\net8.0\CancellationToken-Consol.dll
+C:\Developments\Git\CancellationToken\CancellationToken-Consol\CancellationToken-Consol\obj\Debug\net8.0\refint\CancellationToken-Consol.dll
+C:\Developments\Git\CancellationToken\CancellationToken-Consol\CancellationToken-Consol\obj\Debug\net8.0\CancellationToken-Consol.pdb
+C:\Developments\Git\CancellationToken\CancellationToken-Consol\CancellationToken-Consol\obj\Debug\net8.0\CancellationToken-Consol.genruntimeconfig.cache
+C:\Developments\Git\CancellationToken\CancellationToken-Consol\CancellationToken-Consol\obj\Debug\net8.0\ref\CancellationToken-Consol.dll
